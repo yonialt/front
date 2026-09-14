@@ -1,0 +1,6 @@
+{
+  "name": "ሃገራዊ SPORT BETTING & MARKET - Live Sports & Polymarket Predictions",
+  "description": "Interactive sports betting and Polymarket platform with ሃገራዊ Sport Betting & Market live odds, match tracker, and prediction markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
